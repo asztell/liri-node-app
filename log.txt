@@ -1,0 +1,51 @@
+/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js movie-this Rambo
+
+/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js movie-this Rambo
+
+/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js movie-this Rambo
+
+/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js movie-this Rambo
+
+/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js movie-this Rambo
+
+/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+
+[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+
+[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+
+[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+
+[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+
+[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+
+/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+
+[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+
+[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+
+[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+
+[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+
+[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+
+[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+
+[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js my-tweets
+
+/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+
+[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+
+[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+
+[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+
+[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+
+/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+
+[object Object]
