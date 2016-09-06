@@ -1,51 +1,53 @@
-/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js movie-this Rambo
+/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js do-what-it-says
 
-/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js movie-this Rambo
+------------------------------------------------------------------
 
-/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js movie-this Rambo
+Title: The Revenant
+Year: 2015
+IMDB rating: 8.1
+Country: USA, Hong Kong, Taiwan, Canada
+Language: English, Pawnee, French
+Plot: A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.
+Actors: Leonardo DiCaprio, Tom Hardy, Domhnall Gleeson, Will Poulter
+Rotten Tomatoes rating: 7.9
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_revenant_2015/
 
-/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js movie-this Rambo
+=================================================================
 
-/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js movie-this Rambo
+/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js do-what-it-says
 
-/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+------------------------------------------------------------------
 
-[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+Title: The Revenant
+Year: 2015
+IMDB rating: 8.1
+Country: USA, Hong Kong, Taiwan, Canada
+Language: English, Pawnee, French
+Plot: A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.
+Actors: Leonardo DiCaprio, Tom Hardy, Domhnall Gleeson, Will Poulter
+Rotten Tomatoes rating: 7.9
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_revenant_2015/
 
-[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+=================================================================
 
-[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js do-what-it-says
 
-[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+------------------------------------------------------------------
 
-[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+Artist: Vocal Six
+Track: Bohemian Rapsody
+Prieview URL: https://p.scdn.co/mp3-preview/3154a349e497e7ff52ffb81e6494baff5b3b865f
+Album: Why Dance
 
-/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+Artist: The Light Division
+Track: Bohemian Rapsody
+Prieview URL: https://p.scdn.co/mp3-preview/681d8418364727fa84a575cc4125eacd65ddaef1
+Album: The Massed Bands And Bugles Of The Light Division Recorded Live At The Royal Albert Hall
 
-[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+Artist: George Braxton
+Track: Bohemian Rapsody
+Prieview URL: https://p.scdn.co/mp3-preview/b74b30dfefa160096ffdb61212d653b4d3d5c036
+Album: Songs of Love
 
-[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
+=================================================================
 
-[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
-
-[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
-
-[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
-
-[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
-
-[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js my-tweets
-
-/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
-
-[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
-
-[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
-
-[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
-
-[object Object]/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
-
-/usr/local/bin/node /home/krutoy/Documents/school/UCLAbootcamp/Bootcamp/Week10/Homework/liri-node-app/liri.js spotify-this-song imagine
-
-[object Object]
