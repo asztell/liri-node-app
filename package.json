@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/asztell/liri-node-app/issues"
   },
-  "homepage": "https://github.com/asztell/liri-node-app#readme"
+  "homepage": "https://github.com/asztell/liri-node-app#readme",
+  "dependencies": {
+    "request": "^2.74.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.4.0"
+  }
 }
